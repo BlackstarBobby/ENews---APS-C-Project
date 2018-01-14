@@ -1,0 +1,36 @@
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\Enews.dll.config
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\Enews.dll
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\Enews.pdb
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\EntityFramework.dll
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\EntityFramework.SqlServer.dll
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\System.Web.Providers.dll
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\EntityFramework.xml
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\EntityFramework.SqlServer.xml
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\bin\System.Web.Providers.xml
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\obj\Debug\Enews.csprojResolveAssemblyReference.cache
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\obj\Debug\Enews.dll
+c:\users\bobby\documents\visual studio 2013\Projects\Enews\Enews\obj\Debug\Enews.pdb
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\Enews.dll.config
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\Enews.dll
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\Enews.pdb
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\EntityFramework.dll
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\EntityFramework.SqlServer.dll
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\System.Web.Providers.dll
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\EntityFramework.xml
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\EntityFramework.SqlServer.xml
+C:\Users\123Bl\OneDrive\Enews\Enews\bin\System.Web.Providers.xml
+C:\Users\123Bl\OneDrive\Enews\Enews\obj\Debug\Enews.csprojResolveAssemblyReference.cache
+C:\Users\123Bl\OneDrive\Enews\Enews\obj\Debug\Enews.dll
+C:\Users\123Bl\OneDrive\Enews\Enews\obj\Debug\Enews.pdb
+C:\Users\bobby\OneDrive\Enews\Enews\bin\Enews.dll.config
+C:\Users\bobby\OneDrive\Enews\Enews\bin\Enews.dll
+C:\Users\bobby\OneDrive\Enews\Enews\bin\Enews.pdb
+C:\Users\bobby\OneDrive\Enews\Enews\bin\EntityFramework.dll
+C:\Users\bobby\OneDrive\Enews\Enews\bin\EntityFramework.SqlServer.dll
+C:\Users\bobby\OneDrive\Enews\Enews\bin\System.Web.Providers.dll
+C:\Users\bobby\OneDrive\Enews\Enews\bin\EntityFramework.xml
+C:\Users\bobby\OneDrive\Enews\Enews\bin\EntityFramework.SqlServer.xml
+C:\Users\bobby\OneDrive\Enews\Enews\bin\System.Web.Providers.xml
+C:\Users\bobby\OneDrive\Enews\Enews\obj\Debug\Enews.csprojResolveAssemblyReference.cache
+C:\Users\bobby\OneDrive\Enews\Enews\obj\Debug\Enews.dll
+C:\Users\bobby\OneDrive\Enews\Enews\obj\Debug\Enews.pdb
